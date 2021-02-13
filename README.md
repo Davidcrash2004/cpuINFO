@@ -1,4 +1,4 @@
-# Información de la CPU.
+# Información de la CPU
 Informate de los procesos de tu CPU.
 
 <strong>------Linux------</strong><br><br>
